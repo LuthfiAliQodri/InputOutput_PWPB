@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aplikasi Input</string>
+    <string name="kelas">Kelas</string>
+    <string name="pekerjaan">Pekerjaan</string>
+    <string name="alamat">Alamat</string>
+    <string name="total">Submit</string>
+    <string name="output">Output</string>
+    <string name="namalengkap">Nama</string>
+    <string name="address">Alamat</string>
+    <string name="nama">Nama</string>
+    <string name="tanggallahir">Tempat/tanggal lahir</string>
+    <string name="ktp">Nomor KTP/KK</string>
+    <string name="kelamin">Jenis kelamin</string>
+    <string name="birth">Tempat/tanggal lahir</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="idktp">Nomor KTP/KK</string>
+</resources>
